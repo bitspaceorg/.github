@@ -22,7 +22,7 @@
     <p>Every Bit Is Open To All</p>
 </div>
 
-# What is :BitSpace❓️
+## What is :BitSpace❓️
 
 Bitspace is a dynamic and innovative organization that provides a platform for young and talented coders to showcase their skills by creating and contributing to open-source projects. 💻🚀 The organization is committed to promoting the spirit of open collaboration and knowledge sharing, and encourages the development of cutting-edge technology solutions that can benefit the wider community. 🌍
 
@@ -32,7 +32,7 @@ Led by a team of young and passionate individuals, Bitspace is committed to fost
 
 Whether you are a seasoned developer or just starting out, Bitspace offers a wealth of opportunities for learning, collaboration, and growth. 🌱 Join us today and become part of a dynamic and supportive community of like-minded individuals who are passionate about coding and technology. 🤗
 
-# 👉 How to Contribute
+## 👉 How to Contribute
 
 We welcome contributions from anyone who is interested in supporting the mission and goals of Bitspace. Here's how you can contribute:
 
@@ -53,8 +53,11 @@ We review all contributions and provide feedback in a timely manner. Thank you f
 > violation of our [CODE OF CONDUCT](https://github.com/bitspaceorg/.github/blob/main/CODEOFCONDUCT.md). Extremely
 > personal projects and websites will **not** be added.
     
+## 🌐 Website
 
-# 📧 Contact Us
+Our official website is 🌐 https://bitspace.org.in. On our website, you can learn more about our mission, our team, and our projects. You can also find information about upcoming events and opportunities to get involved in our community.
+
+## 📧 Contact Us
 
 If you have any questions or would like to get in touch with us, please send an email to 📩 info@bitspace.org.in. We'll do our best to respond to your inquiry as soon as possible.
 
@@ -67,5 +70,16 @@ You can also follow us on social media to stay up to date on our latest projects
 📘 Linkedin:  https://www.linkedin.com/company/91385462
 
 We look forward to hearing from you!
+
+## 📜 License
+
+Our Projects are released under the MIT license, which grants the following permissions:
+
+- Commercial use
+- Distribution
+- Modification
+- Private use
+
+For more convoluted language, see the [LICENSE]().
 
 
