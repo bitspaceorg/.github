@@ -36,11 +36,11 @@ Whether you are a seasoned developer or just starting out, Bitspace offers a wea
 
 We welcome contributions from anyone who is interested in supporting the mission and goals of Bitspace. Here's how you can contribute:
 
-1️⃣ Propose a project: If you have an idea for a project that aligns with our mission and goals, submit a proposal to our board members for review. Be sure to include a clear description of your project, its objectives, and how it will benefit the community. [more](https://github.com/bitspaceorg/.github/blob/main/profile/howto.md#proposal)
+1️⃣ Propose a project: If you have an idea for a project that aligns with our mission and goals, submit a proposal to our board members for review. Be sure to include a clear description of your project, its objectives, and how it will benefit the community. [more](https://github.com/bitspaceorg/.github/blob/main/CODEOFCONDUCT.md#proposal)
 
-2️⃣ Make changes to an existing project: If you would like to contribute to an existing project, check out the project's issues page or contact the project lead to see how you can help. Make sure to follow the project's coding standards and guidelines. [more](https://github.com/bitspaceorg/.github/blob/main/profile/howto.md#Pr)
+2️⃣ Make changes to an existing project: If you would like to contribute to an existing project, check out the project's issues page or contact the project lead to see how you can help. Make sure to follow the project's coding standards and guidelines. [more](https://github.com/bitspaceorg/.github/blob/main/CODEOFCONDUCT.md#PR)
 
-3️⃣ Report a bug: If you encounter a bug in one of our projects, please report it on the project's issues page. Be sure to include a clear description of the bug, the steps to reproduce it, and any relevant screenshots or error messages. [more](https://github.com/bitspaceorg/.github/blob/main/profile/howto.md#issue)
+3️⃣ Report a bug: If you encounter a bug in one of our projects, please report it on the project's issues page. Be sure to include a clear description of the bug, the steps to reproduce it, and any relevant screenshots or error messages. [more](https://github.com/bitspaceorg/.github/blob/main/CODEOFCONDUCT.md#issue)
 
 4️⃣ Improve documentation: Good documentation is key to the success of any project. If you notice a gap in our documentation or have suggestions for improvement, feel free to submit a pull request or contact the project lead.
 
