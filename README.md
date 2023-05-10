@@ -47,4 +47,25 @@ We welcome contributions from anyone who is interested in supporting the mission
 5️⃣ Join our community: If you're interested in learning more about coding and development, join our community and attend our events. We welcome anyone who is passionate about technology and eager to learn.
 
 We review all contributions and provide feedback in a timely manner. Thank you for your interest in contributing to Bitspace! 💻🙌
+
+> **Note** <br>
+> bitspace board members reserve the right to remove and reject proposals, issues, PR's if we determine the addition to be in
+> violation of our [CODE OF CONDUCT](https://github.com/bitspaceorg/.github/blob/main/CODEOFCONDUCT.md). Extremely
+> personal projects and websites will **not** be added.
     
+
+# 📧 Contact Us
+
+If you have any questions or would like to get in touch with us, please send an email to 📩 info@bitspace.org.in. We'll do our best to respond to your inquiry as soon as possible.
+
+You can also follow us on social media to stay up to date on our latest projects and events:
+
+🐦 Twitter: https://twitter.com/bitspaceorg
+
+📸 Instagram: https://www.instagram.com/bitspaceorg/
+
+📘 Linkedin:  https://www.linkedin.com/company/91385462
+
+We look forward to hearing from you!
+
+
