@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://bitspace.org.in"> <img src="https://cdn.discordapp.com/attachments/1098174922951495680/1105008232180752484/Frame_1.png" width="150" alt="Logo"/>
+   <a href="https://www.bitspace.org.in"> <img src="https://cdn.discordapp.com/attachments/1098174922951495680/1105008232180752484/Frame_1.png" width="150" alt="Logo"/>
     </a>
     <br/>
     <p><h2>:BITSPACE</h2></p>
@@ -55,7 +55,7 @@ We review all contributions and provide feedback in a timely manner. Thank you f
     
 ## 🌐 Website
 
-Our official website is 🌐 https://bitspace.org.in. On our website, you can learn more about our mission, our team, and our projects. You can also find information about upcoming events and opportunities to get involved in our community.
+Our official website is 🌐 https://www.bitspace.org.in. On our website, you can learn more about our mission, our team, and our projects. You can also find information about upcoming events and opportunities to get involved in our community.
 
 ## 📧 Contact Us
 
