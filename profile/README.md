@@ -2,7 +2,7 @@
    <a href="https://www.bitspace.org.in"> <img src="https://cdn.discordapp.com/attachments/1098174922951495680/1105008232180752484/Frame_1.png" width="150" alt="Logo"/>
     </a>
     <br/>
-    <p><h1>bitspace</h1></p>
+    <p><h1>:bitspace</h1></p>
     <p align="center">
 <img alt="Stargazers" src="https://img.shields.io/github/stars/bitspaceorg?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41" />
 <a href="https://www.linkedin.com/company/91385462">
@@ -22,7 +22,7 @@
     <p>Every Bit Is Open To All</p>
 </div>
 
-## What is :BitSpace❓️
+## What is :bitspace❓️
 
 Bitspace is a dynamic and innovative organization that provides a platform for young and talented coders to showcase their skills by creating and contributing to open-source projects. 💻🚀 The organization is committed to promoting the spirit of open collaboration and knowledge sharing, and encourages the development of cutting-edge technology solutions that can benefit the wider community. 🌍
 
