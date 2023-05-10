@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https//:bitspace.org.in"> <img src="https://cdn.discordapp.com/attachments/1098174922951495680/1105008232180752484/Frame_1.png" width="150" alt="Logo"/>
+   <a href="https://bitspace.org.in"> <img src="https://cdn.discordapp.com/attachments/1098174922951495680/1105008232180752484/Frame_1.png" width="150" alt="Logo"/>
     </a>
     <br/>
     <p><h2>:BITSPACE</h2></p>
@@ -11,7 +11,7 @@
 <a href="https://twitter.com/bitspaceorg">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://discord.gg/HtQXAMXbDq">
+<a href="https://discord.gg/">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/bitspaceorg">
@@ -80,6 +80,6 @@ Our Projects are released under the MIT license, which grants the following perm
 - Modification
 - Private use
 
-For more convoluted language, see the [LICENSE]().
+For more convoluted language, see the [LICENSE](https://github.com/bitspaceorg/.github/blob/main/LICENSE.md).
 
 
