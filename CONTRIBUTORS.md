@@ -20,7 +20,7 @@ Every project must follow the [CODE OF CONDUCT](https://github.com/bitspaceorg/.
 ### Documentation
 The Project **MUST CONTAIN A README.MD file** with a clear and concise information about how to use the project , and a Documentation for the project covering all the objects , classes and data members which are to be informed. Projects with a illegible README.MD or documentation will be **REJECTED** irrespective of the Idea and Importance of the Project.
 
-Being an Open-Source Organization , the firm accepts only public projects. No personal projects such as **Portfolio** , or Projects which are at elementary level, will be accepted.
+Being an Open-Source Organization , the firm accepts only public projects. No personal projects such as **Portfolio** , or Projects which are at elementary level, will not be accepted.
 
 ### **Chances of Acceptance** also depend on Number of Commits 
 Proposals with less number of commits having larger *diffs* will have **more chances of acceptance** then the ones with more number of commits having smaller *diffs*, since commiting very small changes (Except Issues) and Commit spams will usually be discouraged and will show up improper maintainence of source code.
