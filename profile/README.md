@@ -1,5 +1,5 @@
 <div align="center">
-   <a href="https://www.bitspace.org.in"> <img src="https://cdn.discordapp.com/attachments/1098174922951495680/1105008232180752484/Frame_1.png" width="150" alt="Logo"/>
+   <a href="https://www.bitspace.org.in"> <img src="https://github.com/bitspaceorg/.github/assets/119417646/577c8581-499e-4cbb-a2f8-e78c643204bc" width="150" alt="Logo"/>
     </a>
     <br/>
     <p><h1>:bitspace</h1></p>
