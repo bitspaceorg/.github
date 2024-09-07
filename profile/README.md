@@ -11,7 +11,7 @@
 <a href="https://twitter.com/bitspaceorg">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://discord.gg/">
+<a href="https://discord.gg/Z3PdY9YmHZ">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/bitspaceorg">
