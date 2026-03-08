@@ -19,7 +19,7 @@
 </a>
 
 </p>
-    <p>We make art</p>
+    <p>We do art</p>
 </div>
 
 ## What is :BitSpace❓️
@@ -75,4 +75,5 @@ Our Projects are released under the MIT license, which grants the following perm
 - Private use
 
 For more convoluted language, see the [LICENSE](https://github.com/bitspaceorg/.github/blob/main/LICENSE.md).
+
 
